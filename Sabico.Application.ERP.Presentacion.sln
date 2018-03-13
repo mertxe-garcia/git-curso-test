@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sabico.Application.ERP.Presentacion", "Sabico.Application.ERP.Presentacion.vbproj", "{14DAADAC-091F-4673-8020-87CC54C2AC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DAADAC-091F-4673-8020-87CC54C2AC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DAADAC-091F-4673-8020-87CC54C2AC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DAADAC-091F-4673-8020-87CC54C2AC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DAADAC-091F-4673-8020-87CC54C2AC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
